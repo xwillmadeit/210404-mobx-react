@@ -41,3 +41,9 @@ function observer(WrappedComponent) {
 
 export { observer }
 ```
+
+## 其他资料
+
+[Build your own MobX-like state management library in 40 lines of code](https://czaplinski.io/blog/make-your-own-mobx/)
+
+[Build your own MobX (Hebrew)](https://www.youtube.com/watch?v=hMD9wKOJ4x8)
